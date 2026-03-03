@@ -64,11 +64,4 @@ Accuracy: ~95–98% (depending on dataset split)
 
 Stratified splitting ensures balanced spam/ham distribution.
 
----
 
-##  How to Run the Project
-
-### 1️ Clone the repository
-
-```bash
-git clone https://github.com/your-username/spam-email-classifier.git
